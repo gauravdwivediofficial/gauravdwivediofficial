@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on any web development field 
-- 📫 How to reach me. www.linkdin.com/gauravdwivediofficial
+- 📫 How to reach me. https://www.linkedin.com/in/gauravdwivediofficial/
 
 <!---
 gauravdwivediofficial/gauravdwivediofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
