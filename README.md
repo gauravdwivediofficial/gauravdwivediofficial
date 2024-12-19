@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript, SQL, Python, NodeJS, ReactJS, Mongodb**
 
-- 📫 How to reach me **gauravdwivedi37@gmail.com**
+- 📫 How to reach me **radarcodingofficial@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny and focused on my work**
 
